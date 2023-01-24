@@ -1,3 +1,5 @@
+i roughly modified this to work how i wanted, its definitely not "best practices" or "good", and some stuff is hardcoded. `index.js` does rich presence, `index_lite.js` doesn't (and only outputs the first fronter to front.txt)
+
 # PluralKit RPC
 A rich presence client for PluralKit users.
 
